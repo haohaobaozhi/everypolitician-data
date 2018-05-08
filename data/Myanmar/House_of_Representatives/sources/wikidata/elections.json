@@ -518,6 +518,18 @@
         "name": "élections législatives birmanes de 1990",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "ja",
+        "name": "1990年ミャンマー総選挙",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ja",
+        "name": "総選挙",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [

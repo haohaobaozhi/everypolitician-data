@@ -92,6 +92,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "it",
+        "name": "Elezioni dell'Assemblea costituente in Siria del 1949",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "ar",
         "name": "الانتخابات التشريعية في سورية 1949",
         "note": "multilingual",
@@ -155,6 +161,12 @@
       {
         "lang": "he",
         "name": "הבחירות הפרלמנטריות בסוריה 2007",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "it",
+        "name": "Elezioni parlamentari in Siria del 2007",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -835,6 +847,18 @@
       {
         "lang": "he",
         "name": "הבחירות הפרלמנטריות בסוריה 1990",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "it",
+        "name": "Elezioni parlamentari in Siria del 1990",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "yue",
+        "name": "第16屆敘利亞議會選舉",
         "note": "multilingual",
         "source": "wikidata-label"
       },

@@ -275,6 +275,12 @@
         "name": "élections législatives liechtensteinoises de 1989",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "Elecciones generales de Liechtenstein de 1989",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -942,6 +948,12 @@
         "name": "Liechtenstein general election, 1936",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "uk",
+        "name": "Парламентські вибори у Ліхтенштейні 1936",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -967,6 +979,12 @@
         "name": "élections silencieuses de 1939",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "uk",
+        "name": "Парламентські вибори у Ліхтенштейні 1939",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -990,6 +1008,12 @@
       {
         "lang": "ru",
         "name": "Парламентские выборы в Лихтенштейне",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "uk",
+        "name": "Парламентські вибори у Ліхтенштейні 1945",
         "note": "multilingual",
         "source": "wikidata-label"
       }

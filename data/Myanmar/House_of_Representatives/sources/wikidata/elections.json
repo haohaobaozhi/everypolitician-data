@@ -518,6 +518,18 @@
         "name": "élections législatives birmanes de 1990",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "ja",
+        "name": "1990年ミャンマー総選挙",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ja",
+        "name": "総選挙",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -542,6 +554,12 @@
       {
         "lang": "zh",
         "name": "1978年緬甸議會選舉",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "my",
+        "name": "အထွေထွေ ရွေးကောက်ပွဲ၊ ၁၉၇၈",
         "note": "multilingual",
         "source": "wikidata-label"
       }
@@ -693,6 +711,12 @@
       {
         "lang": "kn",
         "name": "ಮ್ಯಾನ್ಮಾರ್ ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆ-2015",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "yue",
+        "name": "第16屆緬甸議會選舉",
         "note": "multilingual",
         "source": "wikidata-label"
       }
